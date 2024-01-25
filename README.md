@@ -1,6 +1,8 @@
 # Census-Income-prediction
 
 ## Predicting Using TabTransformer:
+[Census_Income_TabTransformer.ipynb](Census_Income_TabTransformer.ipynb)
+
 For categorical features: 3 blocks of Transformers are used and each of them are connected to a MLP block
 The results are as follow:
  - Train accuracy: 84.45%
